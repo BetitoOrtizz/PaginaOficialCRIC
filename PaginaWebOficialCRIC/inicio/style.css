@@ -1,0 +1,22 @@
+/* footer :right  */
+.titulos{
+    color:#71a300;
+    margin-left: 50px;
+    border-left: solid 2px #BE4505;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+}
+:hover{
+    color: #446B3A;
+}
+.Logo{
+    width: 200px;
+    margin-right: 30px;
+}
+.Menu{
+display: flex;
+align-items: center;
+margin-right: 35px;
+}
+
