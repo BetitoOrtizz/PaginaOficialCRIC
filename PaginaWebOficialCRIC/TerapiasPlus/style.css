@@ -1,0 +1,30 @@
+.terapias{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+justify-content: space-around;
+}
+.terapias2{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+justify-content: space-around;
+}
+.terapias3{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+justify-content: space-around;
+}
+
+.titulos{
+    color:#71a300;
+    margin-left: 50px;
+    border-left: solid 2px #BE4505;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+}
+.Logo{
+    width: 200px;
+}
